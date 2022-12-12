@@ -1,0 +1,45 @@
+.btn{
+    display: flex;
+    justify-content: center;
+
+}
+
+.photo {
+    background: #186d8f;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+
+.photo2 {
+   display: flex;
+   justify-content: space-between;
+   padding: 20px;
+}
+
+.title {
+    width: 185px;
+    height: 30px;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+
+}
+
+
+.id {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background: white;
+    color:rgb(5, 5, 5);
+    font-size: 33px;
+}
+
+.url{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.8rem;
+    align-items: flex-end;
+}
